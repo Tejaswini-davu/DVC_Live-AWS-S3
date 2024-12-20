@@ -1,0 +1,59 @@
+2024-12-19 12:55:57,807 - data_ingestion - ERROR - Failed to parse the csv file: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 12:55:57,808 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 12:58:06,183 - data_ingestion - ERROR - Failed to parse the csv file: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 12:58:06,183 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 13:01:47,157 - data_ingestion - ERROR - Failed to parse the CSV file: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 13:01:47,158 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 13:05:59,750 - data_ingestion - ERROR - Failed to parse the csv file: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 13:05:59,751 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 13:06:43,879 - data_ingestion - ERROR - Failed to parse the csv file: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 13:06:43,880 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 42, saw 30
+
+2024-12-19 13:07:56,102 - data_ingestion - DEBUG - Data loaded from: https://github.com/Tejaswini-davu/DVC_Live-AWS-S3/blob/main/spam.csv
+2024-12-19 13:08:55,521 - data_ingestion - DEBUG - Data loaded from: https://github.com/Tejaswini-davu/DVC_Live-AWS-S3/blob/main/spam.csv
+2024-12-19 13:08:55,532 - data_ingestion - ERROR - Missing column name in the dataframe: "['Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4'] not found in axis"
+2024-12-19 13:08:55,532 - data_ingestion - ERROR - Failed to complete the data ingestion process: "['Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4'] not found in axis"
+2024-12-19 13:12:45,464 - data_ingestion - DEBUG - Data loaded from: https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-19 13:12:45,473 - data_ingestion - DEBUG - Data preprocessing completed
+2024-12-19 13:12:45,474 - data_ingestion - ERROR - Failed to complete the data ingestion process: Expected sequence or array-like, got <class 'NoneType'>
+2024-12-19 13:16:37,716 - data_ingestion - DEBUG - Data loaded from: https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-19 13:16:37,721 - data_ingestion - DEBUG - Data preprocessing completed
+2024-12-19 13:16:37,721 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'NoneType' object has no attribute 'head'
+2024-12-19 13:18:45,094 - data_ingestion - DEBUG - Data loaded from: https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-19 13:18:45,100 - data_ingestion - DEBUG - Data preprocessing completed
+2024-12-19 13:18:45,100 - data_ingestion - ERROR - final_df is None, cannot proceed with train_test_split.
+2024-12-19 13:18:45,100 - data_ingestion - ERROR - Failed to complete the data ingestion process: local variable 'train_data' referenced before assignment
+2024-12-19 13:20:39,564 - data_ingestion - DEBUG - Data loaded from: https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-19 13:20:39,572 - data_ingestion - DEBUG - Data preprocessing completed
+2024-12-19 13:20:39,572 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'train_data' is not defined
+2024-12-19 13:22:13,550 - data_ingestion - DEBUG - Data loaded from: https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-19 13:22:13,550 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'preprocces_data' is not defined
+2024-12-19 13:22:51,469 - data_ingestion - DEBUG - Data loaded from: https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-19 13:22:51,471 - data_ingestion - DEBUG - Data preprocessing completed
+2024-12-19 13:22:51,471 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'train_data' is not defined
+2024-12-19 13:23:33,290 - data_ingestion - DEBUG - Data loaded from: https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-19 13:23:33,291 - data_ingestion - DEBUG - Data preprocessing completed
+2024-12-19 13:23:33,308 - data_ingestion - DEBUG - Trainand test data saved: ./data/raw
+2024-12-20 11:51:37,172 - data_ingestion - DEBUG - Data loaded from: https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-20 11:51:37,175 - data_ingestion - DEBUG - Data preprocessing completed
+2024-12-20 11:51:37,187 - data_ingestion - DEBUG - Trainand test data saved: ./data/raw
+2024-12-20 12:14:05,973 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'NoneType' object is not subscriptable
+2024-12-20 12:14:55,634 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'NoneType' object is not subscriptable
+2024-12-20 12:23:46,550 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'NoneType' object is not subscriptable
+2024-12-20 12:26:20,265 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2024-12-20 12:26:21,819 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-20 12:26:21,823 - data_ingestion - DEBUG - Data preprocessing completed
+2024-12-20 12:26:21,838 - data_ingestion - DEBUG - Train and test data saved to ./data/raw
+2024-12-20 12:26:40,392 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2024-12-20 12:26:40,460 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Tejaswini-davu/DVC_Live-AWS-S3/main/spam.csv
+2024-12-20 12:26:40,462 - data_ingestion - DEBUG - Data preprocessing completed
+2024-12-20 12:26:40,472 - data_ingestion - DEBUG - Train and test data saved to ./data/raw
